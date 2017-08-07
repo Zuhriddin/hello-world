@@ -1,2 +1,3 @@
 # hello-world
-First repository of github
+Hi folks,
+I like Java and Python, and now I am learning Django. 
